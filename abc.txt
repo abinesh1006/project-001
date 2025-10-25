@@ -1,0 +1,17 @@
+Remote:  github
+Local:   
+
+case 1:  
+Remote does not contain - empty repo
+
+Commands:
+git init
+git add .
+git add <fileName> ... 
+git status
+git commit -m "Message"
+git commit -am "Message "
+
+untracked
+tracked
+staging
